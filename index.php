@@ -102,6 +102,7 @@ if (isset($accessToken)) {
             <div class="card-body">
                 <h6 class="pb-5">Connect to IREMBO</h6>
                 <div class="container">
+                    <i class="fa fa-github" aria-hidden="true"></i>
                     <!-- Display GitHub profile information -->
                     <div class="wrapper"><?php echo $output; ?></div>
                 </div>
