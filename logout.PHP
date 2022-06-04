@@ -16,7 +16,7 @@
 <body>
     <form action="index.php" method="post">
     <header class="text-white p-2 text-center"style="background-color:black;">
-<h4>IREMBO | SPECIAL CAT</h4>
+<h4>IREMBO | Special CAT</h4>
 </header>
 
 
